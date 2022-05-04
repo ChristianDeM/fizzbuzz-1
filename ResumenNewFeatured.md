@@ -33,12 +33,7 @@ se usa includes  para obtener  el stack ingresado.
 });
 `
 
-<p> Creamos  una prueba en base de el primer explorer par comprobar los posibles  fallos 
+<p> Creamos una prueba con Jest en base de el primer explorer par comprobar los posibles fallos 
 
-
-
-
-
-
-
-<p> Creamos pruebas con jest para la veificacion de los resultados 
+### Probando el servidor
+img postamn
